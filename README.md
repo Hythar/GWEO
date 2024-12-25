@@ -121,7 +121,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Thanks to the contributors and community for support.
 - Special thanks to the GWEO team for their insights and vision.
 
-- ![image](https://github.com/user-attachments/assets/89de5d9f-a3be-44f5-b81a-48044f4de6a5)
+ ![image](https://github.com/user-attachments/assets/89de5d9f-a3be-44f5-b81a-48044f4de6a5)
 
 
 ---
