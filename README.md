@@ -114,8 +114,6 @@ Replace `your_api_url` with the actual API endpoint.
    ```
 5. Create a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgements
 - Thanks to the contributors and community for support.
